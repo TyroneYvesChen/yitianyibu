@@ -1,6 +1,6 @@
-# yitianyibu-client
+# client
 
-> My blog client
+> A Vue.js project
 
 ## Build Setup
 
